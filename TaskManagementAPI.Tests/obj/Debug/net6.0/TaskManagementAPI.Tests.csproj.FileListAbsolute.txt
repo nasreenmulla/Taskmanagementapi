@@ -1,0 +1,5 @@
+C:\Users\dell\Desktop\idealsolutions\TaskManagementAPI\TaskManagementAPI.Tests\obj\Debug\net6.0\TaskManagementAPI.Tests.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\idealsolutions\TaskManagementAPI\TaskManagementAPI.Tests\obj\Debug\net6.0\TaskManagementAPI.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\idealsolutions\TaskManagementAPI\TaskManagementAPI.Tests\obj\Debug\net6.0\TaskManagementAPI.Tests.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\idealsolutions\TaskManagementAPI\TaskManagementAPI.Tests\obj\Debug\net6.0\TaskManagementAPI.Tests.AssemblyInfo.cs
+C:\Users\dell\Desktop\idealsolutions\TaskManagementAPI\TaskManagementAPI.Tests\obj\Debug\net6.0\TaskManagementAPI.Tests.csproj.CoreCompileInputs.cache
