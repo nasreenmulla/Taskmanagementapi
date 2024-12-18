@@ -83,13 +83,6 @@ The role of the user is set through the request header as Role: Admin or Role: U
 
 bash
 Copy code
-# Example: Get a user by ID (for Admin only)
-curl -X GET "http://localhost:5000/api/users/1" -H "Role: Admin"
-
-# Example: Get tasks assigned to a specific user
-curl -X GET "http://localhost:5000/api/tasks/1" -H "Role: User" -H "UserId: 2"
-Unit Tests
-The project includes unit tests that ensure core functionality. To run the tests, navigate to the test project folder and run:
 
 bash
 Copy code
